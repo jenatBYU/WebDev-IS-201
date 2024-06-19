@@ -1,0 +1,60 @@
+body {
+    background-color: #d5f3fa;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    color: #031d22dc;
+    font-style: normal;
+    text-align: left;
+}
+
+#hockeytableau  {
+    width: 100%;
+    scale: 70%;
+    margin-left: 37px;
+}
+#extra {
+    font-style: italic;
+    font-style: oblique;
+    font-size: large;
+    font-weight: lighter;
+    font-variant: small-caps;
+}
+
+#onpageanchor {
+    color: black;
+    font-weight: bold;
+}
+
+.top {
+   font-weight: bolder;
+   font-size: larger;
+}
+
+#youtube {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2db5d4;
+  }
+  
+nav  li {
+    float: right;
+  }
+  
+ nav  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
